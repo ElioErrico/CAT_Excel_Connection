@@ -8,8 +8,7 @@ Add-in per Excel che integra la funzionalità di chat con Cheshire Cat AI dirett
 2. **Posiziona il file** in una delle seguenti cartelle:
    - `C:\Users\[TuoiUtente]\AppData\Roaming\Microsoft\AddIns\`
    - `C:\Program Files (x86)\Microsoft Office\Root\OfficeXX\Library\`
-   - Cartella personalizzata (ricordati il percorso)
-
+  
 ## Configurazione
 
 Modifica le credenziali nel codice VBA (se necessario):
