@@ -32,6 +32,7 @@ Apri Excel
 In qualsiasi cella Excel, inserisci la formula:
 
     =CheshireCat_Chat("Il tuo messaggio")
+    =CheshireCat_("sentence";[list of cells])
 
 Opzioni avanzate:
 
